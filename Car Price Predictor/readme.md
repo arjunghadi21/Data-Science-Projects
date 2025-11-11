@@ -1,1 +1,1 @@
-
+Developed a machine learning model to accurately predict car prices based on key features. Performed data preprocessing, feature engineering, and model evaluation to improve prediction performance and identify the most influential factors affecting car pricing.
